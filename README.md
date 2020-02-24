@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 These are all the projects I have done or I'm working now. Code is available.
 
@@ -6,7 +6,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-# Fullstack Web Development
+## Fullstack Web Development
 
 </div>
 
