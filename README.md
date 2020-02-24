@@ -13,6 +13,8 @@ These are all the projects I have done or I'm working now. Code is available.
 ### Node with React: 
 -
 
+### Real-Time Chat App
+
 
 ### Yelp
 
@@ -34,6 +36,12 @@ These are all the projects I have done or I'm working now. Code is available.
 ## Back End Web Development
 
 </div>
+### Notes App
+
+### Weather App
+
+### Task App
+
 
 
 
