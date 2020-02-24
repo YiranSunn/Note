@@ -10,7 +10,11 @@ These are all the projects I have done or I'm working now. Code is available.
 
 </div>
 
-## Introduction
+## Node with React: 
+-
+
+
+## Yelp
 
 
 
@@ -27,30 +31,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-## Node.js: Back End Web Development
-
-</div>
-
-
-
-<div align="center">
-
-## Spring: Back End Web Development
-
-</div>
-
-
-
-<div align="center">
-
-## Android: Mobile
-
-</div>
-
-
-<div align="center">
-
-# React Native: Mobile
+## Back End Web Development
 
 </div>
 
@@ -59,7 +40,15 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-## JavaScripts
+## Mobile
+
+</div>
+
+
+
+<div align="center">
+
+## JavaScripts, HTML, CSS
 
 </div>
 
