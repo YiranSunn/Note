@@ -19,7 +19,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-# Front End Web Development
+## Front End Web Development
 
 </div>
 
@@ -27,7 +27,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-# Node.js: Back End Web Development
+## Node.js: Back End Web Development
 
 </div>
 
@@ -35,7 +35,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-# Spring: Back End Web Development
+## Spring: Back End Web Development
 
 </div>
 
@@ -43,7 +43,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-# Android: Mobile
+## Android: Mobile
 
 </div>
 
@@ -59,7 +59,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 <div align="center">
 
-# JavaScripts
+## JavaScripts
 
 </div>
 
