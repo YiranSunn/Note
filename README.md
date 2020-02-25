@@ -21,6 +21,33 @@ These are all the projects I have done or I'm working now. Code is available.
 
 
 
+<div align="center">
+
+## Back End Web Development
+
+</div>
+
+### Notes App
+- [Code]
+
+### Weather App
+- [Code]
+
+### Task App
+- [Code](https://github.com/YiranSunn/Task-App)
+
+
+
+
+
+<div align="center">
+
+## Mobile
+
+</div>
+
+
+
 
 
 <div align="center">
@@ -46,33 +73,6 @@ These are all the projects I have done or I'm working now. Code is available.
 - [CodeSandbox](https://codesandbox.io/s/project-to-do-list-r751r)
 
 
-
-
-
-<div align="center">
-
-## Back End Web Development
-
-</div>
-
-### Notes App
-- [Code]
-
-### Weather App
-- [Code]
-
-### Task App
-- [Code](https://github.com/YiranSunn/Task-App)
-
-
-
-
-
-<div align="center">
-
-## Mobile
-
-</div>
 
 
 
