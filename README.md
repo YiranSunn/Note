@@ -11,13 +11,13 @@ These are all the projects I have done or I'm working now. Code is available.
 </div>
 
 ### Node with React: 
-- [Code](https://github.com/YiranSunn/emailFeedback)
+- [Intro & Code](https://github.com/YiranSunn/emailFeedback)
 
 ### Real-Time Chat App
-- [Code]
+- [Intro & Code](https://github.com/YiranSunn/realtimeChatApp)
 
 ### Yelp
-- [Code](https://github.com/YiranSunn/Yelpwebdev)
+- [Intro & Code](https://github.com/YiranSunn/Yelpwebdev)
 
 
 
@@ -28,13 +28,13 @@ These are all the projects I have done or I'm working now. Code is available.
 </div>
 
 ### Notes App
-- [Code]
+- [Intro & Code]
 
 ### Weather App
-- [Code]
+- [Intro & Code]
 
 ### Task App
-- [Code](https://github.com/YiranSunn/Task-App)
+- [Intro & Code](https://github.com/YiranSunn/Task-App)
 
 
 
@@ -58,19 +58,19 @@ These are all the projects I have done or I'm working now. Code is available.
 
 ### Pig Game
 
-- [CodeSandbox](https://codesandbox.io/s/project-pig-game-2ekg7)
+- [Demo & Code via CodeSandbox](https://codesandbox.io/s/project-pig-game-2ekg7)
 
 ### Monthly Budget Calculator
 
-- [CodeSandbox](https://codesandbox.io/s/project-monthly-budget-calculator-26f32)
+- [Demo & Code via CodeSandbox](https://codesandbox.io/s/project-monthly-budget-calculator-26f32)
 
 ### Color Game
 
-- [CodeSandbox](https://codesandbox.io/s/project-color-game-wesq0)
+- [Demo & Code via CodeSandbox](https://codesandbox.io/s/project-color-game-wesq0)
 
 ### To Do List
 
-- [CodeSandbox](https://codesandbox.io/s/project-to-do-list-r751r)
+- [Demo & Code via CodeSandbox](https://codesandbox.io/s/project-to-do-list-r751r)
 
 
 
