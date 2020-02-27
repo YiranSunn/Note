@@ -1,6 +1,6 @@
 # Introduction
 
-These are all the projects I have done or I'm working now. Code is available.
+These are the projects with available code.
 
 > Some projects' code is not complete, or in other platforms. So it'll take some time to push them here. However, I hope all this work will be finished before Mar 15th, 2020. Thanks for your patience!
 
@@ -10,7 +10,7 @@ These are all the projects I have done or I'm working now. Code is available.
 
 </div>
 
-### Node with React: 
+### Email Survey Website 
 - [Intro & Code](https://github.com/YiranSunn/emailFeedback)
 
 ### Real-Time Chat App
@@ -37,24 +37,27 @@ These are all the projects I have done or I'm working now. Code is available.
 - [Intro & Code](https://github.com/YiranSunn/Task-App)
 
 
-
-
-
-<div align="center">
-
-## Mobile
-
-</div>
-
+### WeChat Restaurant Ordering System
 
 
 
 
 <div align="center">
 
-## Front End Web Development
+## Mobile Development
 
 </div>
+
+### Flickr App
+- [Intro & Code]
+
+### Job Finder App
+- [Intro & Code]
+
+
+
+
+### Others
 
 ### Pig Game
 
