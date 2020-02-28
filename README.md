@@ -38,6 +38,7 @@ These are the projects with available code.
 
 
 ### WeChat Restaurant Ordering System
+- [Intro & Code]
 
 
 
