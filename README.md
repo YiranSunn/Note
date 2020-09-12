@@ -2,7 +2,7 @@
 
 These are the projects with available code.
 
-> Some projects' code is not complete, or in other platforms. So it'll take some time to push them here. However, I hope all this work will be finished before May 15th, 2020. Thanks for your patience!
+> Some projects' code is not complete, or in other platforms. So it'll take some time to push them here. However, I hope all this work will be finished before Dec 15th, 2020. Thanks for your patience!
 
 <div align="center">
 
