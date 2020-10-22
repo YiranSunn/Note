@@ -6,9 +6,6 @@ These are the projects with available code.
 
 <div align="center">
 
-
-
-
 ## Fullstack Web Development
 
 </div>
@@ -49,9 +46,12 @@ These are the projects with available code.
 - [Intro & Code]
 
 
+<div align="center">
 
+## Playground
 
-### Others
+</div>
+
 
 ### Pig Game
 
