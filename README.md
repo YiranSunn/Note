@@ -6,6 +6,9 @@ These are the projects with available code.
 
 <div align="center">
 
+
+
+
 ## Fullstack Web Development
 
 </div>
@@ -27,11 +30,9 @@ These are the projects with available code.
 
 </div>
 
-### Notes App
-- [Intro & Code]
+### Recommender System
+- [Intro & Code](https://github.com/YiranSunn/recSys)
 
-### Weather App
-- [Intro & Code]
 
 ### Task App
 - [Intro & Code](https://github.com/YiranSunn/Task-App)
@@ -41,27 +42,12 @@ These are the projects with available code.
 - [Intro & Code]
 
 
-
-
-<div align="center">
-
-## Mobile Development
-
-</div>
-
-### Flickr App
+### Notes App
 - [Intro & Code]
 
-### Job Finder App
+### Weather App
 - [Intro & Code]
 
-
-
-<div align="center">
-
-## 
-
-</div>
 
 
 
