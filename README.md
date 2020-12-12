@@ -57,7 +57,7 @@ These are the research & project with available code.
 - [Intro & Code]
 
 
-### Notes App
+### Note App
 - [Intro & Code]
 
 ### Weather App
