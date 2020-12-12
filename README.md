@@ -72,6 +72,10 @@ These are the research & project with available code.
 
 </div>
 
+### Recognize Object via Deep Learning
+
+- [Demo & Code](https://github.com/YiranSunn/Recognition-Object)
+
 
 ### Pig Game
 
