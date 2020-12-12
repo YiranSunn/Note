@@ -1,10 +1,31 @@
 # Introduction
 
-These are the projects with available code.
+These are the research & project with available code.
 
 > Some projects' code is not complete, or in other platforms. So it'll take some time to push them here. However, I hope all this work will be finished before Dec 1st, 2020. Thanks for your patience!
 
 <div align="center">
+  
+## Research Related
+
+</div>
+
+### Asynchronous Parallel Block Coordinate Regularization by Denoising Algorithm
+- [Intro & Code]
+
+
+### Online & Offline Personalized Recommendation Systems
+- [Intro & Code](https://github.com/YiranSunn/recSys)
+
+
+### A Novel Social Networks Clustering Algorithm based on Communication Data
+- [Intro & Code](https://github.com/YiranSunn/SocialClustering)
+
+
+<div align="center">
+  
+ 
+ 
 
 ## Fullstack Web Development
 
@@ -19,17 +40,14 @@ These are the projects with available code.
 ### Yelp
 - [Intro & Code](https://github.com/YiranSunn/Yelpwebdev)
 
-
-
 <div align="center">
+  
+  
+  
 
 ## Back End Web Development
 
 </div>
-
-### Recommender System
-- [Intro & Code](https://github.com/YiranSunn/recSys)
-
 
 ### Task App
 - [Intro & Code](https://github.com/YiranSunn/Task-App)
@@ -45,8 +63,10 @@ These are the projects with available code.
 ### Weather App
 - [Intro & Code]
 
-
 <div align="center">
+  
+  
+  
 
 ## Playground
 
